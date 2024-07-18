@@ -1,0 +1,13 @@
+{
+  "name": "proxyobjectsreflectjs",
+  "version": "1.0.0",
+  "description": "**Proxy and Reflect in JavaScript**\r What proxies are ? use cases\r How proxy works\r use them in comman scenarios\r use reflect to simplify proxies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
